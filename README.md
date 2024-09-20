@@ -7,7 +7,7 @@ AsianRestaurant is an innovative application designed to enhance the dining expe
 To install AsianRestaurant locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/AsianRestaurant.git
+   git clone https://github.com/Asian-Restaurant/mobile.git
    ```
 2. Navigate to the project directory:
    ```bash

@@ -45,3 +45,7 @@ After installing the application, follow these steps to use it:
 2. Create an account or log in to your existing account.
 3. Explore restaurants and menus.
 4. Place an order or make a reservation as needed.
+
+## Description
+All code is in the general repository, features branch
+Api code is in backend/development
